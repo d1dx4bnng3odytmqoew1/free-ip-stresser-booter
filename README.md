@@ -1,3 +1,4 @@
+
 # 🔥 dumpcord.su — Free Load Tester & IP Stresser
 
 Want to see how strong your website really is?  
@@ -29,4 +30,4 @@ Illegal use is strictly prohibited.
 ## Ready to start?
 
 👉 [https://t.me/dumpcord](https://t.me/dumpcord)  
-👉 [https://dumpcord.su](https://dumpcord.su/?r=git-5-1).
+👉 [https://dumpcord.su](https://dumpcord.su/?r=git-5-1) 
