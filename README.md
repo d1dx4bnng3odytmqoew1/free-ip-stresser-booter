@@ -1,11 +1,12 @@
-# 🔥 dumpcord.su — Free Load Tester & IP Stresser
+
+# 🔥 dumpcord.ru — Free Load Tester & IP Stresser
 
 Want to see how strong your website really is?  
-**dumpcord.su** lets you safely test your servers with huge traffic loads.
+**dumpcord.ru** lets you safely test your servers with huge traffic loads.
 
 ## 🌐 Website
 
-[https://dumpcord.su](https://dumpcord.su/?r=git-5)
+[https://dumpcord.ru](https://dumpcord.ru/?r=git-5)
 
 ## What You Get
 
@@ -29,4 +30,4 @@ Illegal use is strictly prohibited.
 ## Ready to start?
 
 👉 [https://t.me/dumpcord](https://t.me/dumpcord)  
-👉 [https://dumpcord.su](https://dumpcord.su/?r=git-5-1).
+👉 [https://dumpcord.ru](https://dumpcord.ru/?r=git-5-1) 
